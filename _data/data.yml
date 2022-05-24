@@ -7,8 +7,8 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Κωνσταντίνα Ηλιοπούλου
-    tagline: Προπτυχιακή Φοιτήτρια Πληροφορικής
+    name: Konstantina Iliopoulou
+    tagline: Undergraduate Student of Informatics
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,49 +18,49 @@ sidebar:
     
 
     languages:
-      - idiom: Ελληνικά
-        level: Μητρική
+      - idiom: Greek
+        level: Native
 
-      - idiom: Αγγλικά
-        level: Καλό Επίπεδο
+      - idiom: English
+        level: Lawer
 
-      - idiom: Γερμανικά
-        level: Καλό Επίπεδο
+      - idiom: German
+        level: B1
 
     interests:
       - item: Jogging
         link:
 
-      - item: Τέννις
+      - item: Tennis
         link:
 
-      - item: Ταξίδια
+      - item: Traveling
         link:
 
 career-profile:
-    title: ΣΤΟΧΟΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ
+    title: SOFTWARE TECHNOLLOGY
     summary: |
-      Μέσα από το μάθημα "Τεχνολογία Λογισμικού", στόχος μου είναι να κατανοήσω τον τρόπο οργάνωσης και λειτουργίας ενός συστήματος, καθώς και πως επιτυγχάνεται η διάδραση με αυτό. Να μάθω να συνεργάζομαι, να επιλύω απορίες μου και να υλοποιώ αντίστοιχες εργασίες μέσα απο νέα λογισμικά, όπως το linux. Επιπλέον, θα ήθελα να ενισχύσω/βελτιώσω τις προγραμματιστικές μου γνώσεις, ενώ μέσα από τα εκπαιδευτικά βίντεο, προτίθεμαι να γνωρίσω την ιστορία των υπολογιστικών συστημάτων και πως εν τέλει, γινόταν η διεπαφή τότε.
+      Through the course "Software Technology", my goal is to understand how a system is organized and operates, as well as how to achieve interaction with it. To learn to collaborate, to solve my questions and to implement corresponding tasks through new software, such as linux. In addition, I would like to enhance / improve my programming knowledge, while through the educational videos, I intend to know the history of computer systems and how, in the end, the interface was done then.
 education:
-    - degree: Πληροφορική
-      university: Ιόνιο Πανεπιστήμιο
-      time: 2018 -
+    - degree: Informatics
+      university: Ionian University
+      time: 2018 - 
       
-    - degree: Απολυτήριο Λυκείου
-      university: Δευτεροβάθμια Εκπαίδευση
-      time: 2015 - 2018
+    - degree: High School Degree
+      university: High School of Lamia
+      time: 2015 - 2018 
       
 experiences:
-    - role: "Womentors - Ενδυνάμωση Νέων Γυναικών"
+    - role: "Womentors"
       time: 2020 - 2021
-      company: Ίδρυμα Λαμπράκη, Αθήνα
+      company: Lampraki Foundation, Athens
       
-    - role: "Προγραμματισμός Υπολογιστών - Φροντιστηριακά Μαθήματα Python"
+    - role: "Python"
       time: 2019 - 2020
-      company: Ιόνιο Πανεπιστήμιο, Κέρκυρα
+      company: Ionian University, Corfu
 
 skills:
-    title: ΠΡΟΓΡΑΜΜΑΤΙΣΤΙΚΕΣ ΙΚΑΝΟΤΗΤΕΣ
+    title: PROGRAMMING SKILLS
 
     toolset:
       - name: C
