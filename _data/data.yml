@@ -17,7 +17,7 @@ sidebar:
 
     languages:
       title: Languages
-      info:
+      
         - idiom: Greek
           level: Native
 
@@ -29,7 +29,7 @@ sidebar:
 
     seminars:
       title: Seminars
-      info:
+      
         - item: Digital Skills I
           link:
 
@@ -39,9 +39,10 @@ sidebar:
         - item: Womentors
           link:
 
+
 education:
     title: Education
-    info:
+    
       - degree: Informatics
         university: Ionian University
         time: 2018 - 
@@ -51,8 +52,8 @@ education:
         time: 2015 - 2018
         
 experiences:
+
     title: Experiences
-    info:
       - role: Software Developer
         time: Jule - August 2022
         company: Practical Training, Corfu
@@ -62,7 +63,7 @@ projects:
     intro: >
     assignments:
       - title: Tilderist
-        link: "#https://tilderist.com/"
+        link: "https://tilderist.com/"
         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
 
 skills:
