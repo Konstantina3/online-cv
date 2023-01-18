@@ -17,7 +17,7 @@ sidebar:
     github: Konstantina3
 
     languages:
-    
+        title: LANGUAGES
         - idiom: Greek
           level: Native
 
@@ -27,8 +27,8 @@ sidebar:
         - idiom: German
           level: Professional
 
-    seminars:
-    
+    interests:
+        title: SEMINARS
         - item: Digital Skills
           link:
 
@@ -43,7 +43,7 @@ education:
     info:
       - degree: Informatics
         university: Ionian University
-        time: 2018 - 
+        time: 2018 - present 
         
       - degree: High School
         university: High School of Lamia
