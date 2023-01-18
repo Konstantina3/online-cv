@@ -1,6 +1,4 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
+
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -8,78 +6,74 @@ sidebar:
 
     # Profile information
     name: Konstantina Iliopoulou
-    tagline: Undergraduate Student of Informatics
+    tagline: Undergraduated Student of Informatics
     avatar: bio-image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: iliopoulou.kwnstantina@gmail.com
     phone: 6973171052
+    timezone: Greece
     github: Konstantina3
 
     languages:
-        title: Languages
-        info:
-      - idiom: Greek
-        level: 
+      title: Languages
+      info:
+        - idiom: Greek
+          level: Native
 
-      - idiom: English
-        level: 
+        - idiom: English
+          level: Professional
 
-      - idiom: German
-        level: 
+        - idiom: German
+          level: Professional
 
     seminars:
-        title: Seminars
-        indo:
-      - item: Digital Skills I 
-        link:
+      title: Seminars
+      info:
+        - item: Digital Skills I
+          link:
 
-      - item: Python 
-        link:
+        - item: Python
+          link:
 
-      - item: Womentors 
-        link:
+        - item: Womentors
+          link:
 
-career-profile:
-   
 education:
     title: Education
-        - degree: Informatics
-          university: Ionian University
-          time: 2018 - 
-      
-        - degree: High School Degree
-          university: High School of Lamia
-          time: 2015 - 2018 
-      
+    info:
+      - degree: Informatics
+        university: Ionian University
+        time: 2018 - 
+        
+      - degree: High School
+        university: High School of Lamia
+        time: 2015 - 2018
+        
 experiences:
     title: Experiences
     info:
-     - role: "Software Developer"
-      time: Jule - August 2022
-      company: Practical Training, Corfu
-      
-    - role: "Service"
-      time: Summer session
-      company: Sunshine Corfu Hotel $ Spa
-
+      - role: Software Developer
+        time: Jule - August 2022
+        company: Practical Training, Corfu
+        
 projects:
     title: Projects
-    assignements:
-       - title: Tilderist
-         link: "https://tilderist.com/"
-         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
+    intro: >
+    assignments:
+      - title: Tilderist
+        link: "#tilderist"
+        tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
 
 skills:
-    title: PROGRAMMING SKILLS
+    title: Programming Skills 
 
     toolset:
       - name: C
         level: 70%
 
-      - name: Html
-        level: 40%
-        
-      - name: Python
-        level: 30% 
+      - name: HTML
+        level: 50%
 
+      - name: Python
+        level: 30%
