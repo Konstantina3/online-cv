@@ -9,37 +9,36 @@ sidebar:
     # Profile information
     name: Konstantina Iliopoulou
     tagline: Undergraduate Student of Informatics
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: bio-image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p18ilio@ionio.gr
+    email: iliopoulou.kwnstantina@gmail.com
+    phone: 6973171052
     github: Konstantina3
 
     languages:
       - idiom: Greek
-        level: Native
+        level: 
 
       - idiom: English
-        level: Lawer
+        level: 
 
       - idiom: German
-        level: B1
+        level: 
 
-    interests:
-      - item: Jogging
+    seminars:
+      - item: Digital Skills I 
         link:
 
-      - item: Tennis
+      - item: Python 
         link:
 
-      - item: Traveling
+      - item: Womentors 
         link:
 
 career-profile:
-    title: HCI
-    summary: |
-      With the course "Human-Computer Communication", I will develop an innovative digital application-service, based on humans and their needs. This Summer I did my internship at a startup company, where we created an innovative project "Tilderist" that automates the legal documents of small enterprises. So my collaboration with the team was inspirational for my personal project.
-education:
+   
+    education:
     - degree: Informatics
       university: Ionian University
       time: 2018 - 
@@ -49,13 +48,22 @@ education:
       time: 2015 - 2018 
       
 experiences:
-    - role: "Womentors"
-      time: 2020 - 2021
-      company: Lampraki Foundation, Athens
+    title: Experiences
+    info:
+     - role: "Software Developer"
+      time: Jule - August 2022
+      company: Practical Training, Corfu
       
-    - role: "Python"
-      time: 2019 - 2020
-      company: Ionian University, Corfu
+    - role: "Service"
+      time: Summer session
+      company: Sunshine Corfu Hotel $ Spa
+
+projects:
+    title: Projects
+    assignements:
+       - title: Tilderist
+         link: "#https://tilderist.com/"
+         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
 
 skills:
     title: PROGRAMMING SKILLS
@@ -64,15 +72,13 @@ skills:
       - name: C
         level: 70%
 
-      - name: C++
+      - name: Html
         level: 40%
-
-      - name: Java
-        level: 30%
-
+        
       - name: Python
-        level: 20%
+        level: 30% 
 
-      - name: HTML & Javascript
-        level: 10%
+    
+
+   
 
