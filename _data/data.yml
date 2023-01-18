@@ -26,9 +26,7 @@ sidebar:
         - idiom: German
           level: Professional
 
-    seminars:
-        title: SEMINARS
-        info:
+    interests:
         - item: Digital Skills
           link:
 
