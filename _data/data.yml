@@ -18,7 +18,7 @@ sidebar:
 
     languages:
       title: LANGUAGES
-      info: |
+      info:
         - idiom: Greek
           level: Native
 
@@ -30,8 +30,8 @@ sidebar:
 
     interests:
       title: SEMINARS
-      info: |
-        - item: Digital Skills I
+      info:
+        - item: Digital Skills
           link:
 
         - item: Python
@@ -42,7 +42,7 @@ sidebar:
 
 education:
     title: EDUCATION
-    info: |
+    info:
       - degree: Informatics
         university: Ionian University
         time: 2018 - 
@@ -51,11 +51,11 @@ education:
         university: High School of Lamia
         time: 2015 - 2018
 experiences:
-    info: |
+    info:
     title: EXPERIENCES
       - role: Software Developer
         time: 2022
-        company: Practical Training, Corfu     
+        company: Practical Training    
 projects:
     title: PROJECTS
     intro: >
