@@ -42,15 +42,15 @@ sidebar:
 
 career-profile:
    
-    education:
-        title: Education
-          - degree: Informatics
-            university: Ionian University
-            time: 2018 - 
+education:
+    title: Education
+        - degree: Informatics
+          university: Ionian University
+          time: 2018 - 
       
-          - degree: High School Degree
-            university: High School of Lamia
-            time: 2015 - 2018 
+        - degree: High School Degree
+          university: High School of Lamia
+          time: 2015 - 2018 
       
 experiences:
     title: Experiences
