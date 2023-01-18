@@ -17,8 +17,6 @@ sidebar:
     github: Konstantina3
 
     languages:
-      title: LANGUAGES
-      info:
         - idiom: Greek
           level: Native
 
@@ -28,9 +26,7 @@ sidebar:
         - idiom: German
           level: Professional
 
-    interests:
-      title: SEMINARS
-      info:
+    seminars:
         - item: Digital Skills
           link:
 
