@@ -17,7 +17,7 @@ sidebar:
 
     languages:
       title: Languages
-      
+      info:
         - idiom: Greek
           level: Native
 
@@ -29,7 +29,7 @@ sidebar:
 
     seminars:
       title: Seminars
-      
+      info:
         - item: Digital Skills I
           link:
 
@@ -42,7 +42,7 @@ sidebar:
 
 education:
     title: Education
-    
+    info:
       - degree: Informatics
         university: Ionian University
         time: 2018 - 
@@ -52,7 +52,7 @@ education:
         time: 2015 - 2018
         
 experiences:
-
+    info:
     title: Experiences
       - role: Software Developer
         time: Jule - August 2022
