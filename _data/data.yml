@@ -7,7 +7,7 @@ sidebar:
     # Profile information
     name: Konstantina Iliopoulou
     tagline: Undergraduated Student of Informatics
-    avatar: bio-image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile1[1].jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: iliopoulou.kwnstantina@gmail.com
@@ -62,7 +62,7 @@ projects:
     intro: >
     assignments:
       - title: Tilderist
-        link: "#tilderist"
+        link: "#https://tilderist.com/"
         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
 
 skills:
