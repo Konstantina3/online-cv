@@ -51,11 +51,10 @@ education:
         university: High School of Lamia
         time: 2015 - 2018
 experiences:
-    info:
-    
+    info: 
     title: Experiences
       - role: Software Developer
-        time: Jule 2022
+        time: 2022
         company: Practical Training, Corfu     
 projects:
     title: Projects
