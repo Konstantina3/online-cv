@@ -17,8 +17,6 @@ sidebar:
     github: Konstantina3
 
     languages:
-        title: LANGUAGES
-        info:
         - idiom: Greek
           level: Native
 
@@ -50,18 +48,21 @@ education:
       - degree: High School
         university: High School of Lamia
         time: 2015 - 2018
+
 experiences:
     title: EXPERIENCES
     info:
       - role: Software Developer
         time: 2022 - 2023
         company: Practical Training    
+
 projects:
     title: PROJECTS
     intro: >
     assignments:
       - title: Tilderist
         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
+
 skills:
     title: PROGRAMMING SKILLS 
 
