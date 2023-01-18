@@ -17,6 +17,8 @@ sidebar:
     github: Konstantina3
 
     languages:
+        title: Languages
+        info:
       - idiom: Greek
         level: 
 
@@ -27,6 +29,8 @@ sidebar:
         level: 
 
     seminars:
+        title: Seminars
+        indo:
       - item: Digital Skills I 
         link:
 
@@ -39,13 +43,14 @@ sidebar:
 career-profile:
    
     education:
-    - degree: Informatics
-      university: Ionian University
-      time: 2018 - 
+        title: Education
+          - degree: Informatics
+            university: Ionian University
+            time: 2018 - 
       
-    - degree: High School Degree
-      university: High School of Lamia
-      time: 2015 - 2018 
+          - degree: High School Degree
+            university: High School of Lamia
+            time: 2015 - 2018 
       
 experiences:
     title: Experiences
@@ -77,8 +82,4 @@ skills:
         
       - name: Python
         level: 30% 
-
-    
-
-   
 
