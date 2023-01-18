@@ -63,7 +63,6 @@ projects:
     intro: >
     assignments:
       - title: Tilderist
-        link: "tilderist.com"
         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
 
 skills:
