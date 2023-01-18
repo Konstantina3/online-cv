@@ -18,6 +18,7 @@ sidebar:
 
     languages:
         title: LANGUAGES
+        info:
         - idiom: Greek
           level: Native
 
@@ -29,6 +30,7 @@ sidebar:
 
     interests:
         title: SEMINARS
+        info:
         - item: Digital Skills
           link:
 
@@ -49,8 +51,8 @@ education:
         university: High School of Lamia
         time: 2015 - 2018
 experiences:
-    info:
     title: EXPERIENCES
+    info:
       - role: Software Developer
         time: 2022 - 2023
         company: Practical Training    
