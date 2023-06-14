@@ -58,7 +58,7 @@ projects:
     intro: >
     assignments:
       - title: Digital Forensics training exercise
-        tagline: "Creation of a digital forensics training exercise for my thesis by the time in University. The purpose behind the exercise is to make a forensic analysis and investigation by buildind a case that exports the suspect and important evidence."
+        tagline: "Creation of a digital forensics training exercise for my thesis by the time in University. On this exercise, I make a forensic analysis and investigation by building a case that reveals the suspect and important evidence of him."
 
       - title: Tilderist
         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
