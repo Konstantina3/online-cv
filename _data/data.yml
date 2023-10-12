@@ -44,7 +44,7 @@ education:
         university: University of Piraeus
         time: 2023 -
         
-      - degree: BSc in Informatics
+      - degree: BSc in Computer Science
         university: Ionian University
         time: 2018 - 2023 
 
@@ -64,14 +64,23 @@ projects:
         tagline: "A website that designed to offer to companies, mostly startups, a legal document automation tool that generates Privacy Policy, Terms of Use and Cookies."
         
 skills:
-    title: PROGRAMMING SKILLS 
+    title: SKILLS 
 
     toolset:
-      - name: C
+      - name: Risk Analysis
+        level: 80%
+
+      - name: LINDDUN
         level: 70%
 
-      - name: HTML
-        level: 50%
+      - name: PIA
+        level: 70%
+
+      - name: UML
+        level: 60%
+
+      - name: C
+        level: 60%
 
       - name: Python
-        level: 30%
+        level: 40%
