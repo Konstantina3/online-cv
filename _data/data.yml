@@ -29,6 +29,9 @@ sidebar:
     interests:
         - item: Digital Forensics
           link:
+
+        - item: Information Security
+          link:
           
         - item: Grow Your Business
           link:
@@ -42,7 +45,7 @@ sidebar:
 education:
       - degree: MSc in Cybersecurity
         university: University of Piraeus
-        time: 2023 -
+        time: 2023 - 2024
         
       - degree: BSc in Computer Science
         university: Ionian University
@@ -74,6 +77,9 @@ skills:
         level: 70%
 
       - name: PIA
+        level: 70%
+
+      - name: Penetration Testing
         level: 70%
 
       - name: UML
