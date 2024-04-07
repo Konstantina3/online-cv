@@ -27,9 +27,6 @@ sidebar:
           level: Professional
 
     interests:
-        - item: Digital Forensics
-          link:
-
         - item: Information Security
           link:
           
@@ -43,9 +40,9 @@ sidebar:
           link:
 
 education:
-      - degree: MSc in Cybersecurity
+      - degree: MSc in Digital Systems Security
         university: University of Piraeus
-        time: 2023 - 2024
+        time: 2023 - now
         
       - degree: BSc in Computer Science
         university: Ionian University
