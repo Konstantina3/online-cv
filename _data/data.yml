@@ -29,14 +29,11 @@ sidebar:
     interests:
         - item: Information Security
           link:
-          
-        - item: Grow Your Business
+
+        - item: Digital Forensics
           link:
 
-        - item: First Responder Education
-          link:
-
-        - item: Womentors
+        - item: Writing novels
           link:
 
 education:
@@ -76,11 +73,8 @@ skills:
       - name: PIA
         level: 70%
 
-      - name: Penetration Testing
+      - name: Vulnerability Assessment
         level: 70%
-
-      - name: UML
-        level: 60%
 
       - name: C
         level: 60%
