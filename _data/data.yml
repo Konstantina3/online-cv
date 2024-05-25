@@ -21,10 +21,10 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: B2
 
         - idiom: German
-          level: Professional
+          level: B1
 
     interests:
         - item: Information Security
@@ -70,7 +70,7 @@ skills:
       - name: LINDDUN
         level: 70%
 
-      - name: PIA
+      - name: DPIA
         level: 70%
 
       - name: Vulnerability Assessment
