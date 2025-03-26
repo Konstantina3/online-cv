@@ -44,12 +44,23 @@ education:
       - degree: MSc in Digital Systems Security
         university: University of Piraeus
         time: 2023 - now
+      
+      - degree: Lead Auditor ISO 27001
+        university: TÜV Austria Academy
+        time: 2024
         
       - degree: BSc in Computer Science
         university: Ionian University
         time: 2018 - 2023 
 
 experiences:
+      - role: Digital Forensics Analyst
+        time: 2024 - now
+        company: The Crime Lab
+      
+      - role: Cybersecurity Tutor
+        time: 2024 - now
+      
       - role: Software Developer
         time: 2022 - 2023
         company: Practical Training    
@@ -58,6 +69,9 @@ projects:
     title: PROJECTS
     intro: >
     assignments:
+      - title: Homomorphic Encryption in Cloud Forensics 
+        tagline: "Master's thesis on the role of homomorphic encryption in enhancing the digital forensics process in the cloud."
+      
       - title: Digital Forensics training exercise
         tagline: "Creation of a digital forensics training exercise for my thesis by the time in University. On this exercise, I make a forensic analysis and investigation by building a case that reveals the suspect and important evidence of him."
 
@@ -70,6 +84,9 @@ skills:
     toolset:
       - name: Risk Analysis
         level: 80%
+        
+      - name: MOBILedit Forensic Tool
+        level: 80%
 
       - name: LINDDUN
         level: 70%
@@ -78,6 +95,12 @@ skills:
         level: 70%
 
       - name: Vulnerability Assessment
+        level: 70%
+
+      - name: FTK Imager
+        level: 70%
+
+      - name: OS Forensics
         level: 70%
 
       - name: C
